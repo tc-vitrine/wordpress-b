@@ -1,0 +1,10 @@
+# WordPress core
+wp-admin/
+wp-includes/
+
+# Config
+wp-config.php
+
+# OS
+.DS_Store
+Thumbs.db
