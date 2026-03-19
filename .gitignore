@@ -1,6 +1,5 @@
 # WordPress core
 wp-admin/
-wp-includes/
 
 # Config
 wp-config.php
