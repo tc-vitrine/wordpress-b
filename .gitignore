@@ -1,9 +1,9 @@
-# WordPress core
-wp-admin/
+# # WordPress core
+# wp-admin/
 
-# Config
-wp-config.php
+# # Config
+# wp-config.php
 
-# OS
-.DS_Store
-Thumbs.db
+# # OS
+# .DS_Store
+# Thumbs.db
